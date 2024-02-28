@@ -1,1 +1,1 @@
-# Oracle-DB-Practice
+# SQL-Practice
