@@ -1,4 +1,4 @@
-ASSIGNMENT ON Logical Operator
+ASSIGNMENT ON Logical Operator - 
 
 The given table :
 
